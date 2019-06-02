@@ -1,0 +1,52 @@
+NAME:ABDUL BASIT
+CLASS:BSCS-6C
+REG # :193227
+
+
+Activity One:
+I just write this program which prints Hello World using NetBeans in a simple way.
+
+
+Activity Two:
+I have to just put more data in System.out.println command and separate
+with \n for the next lin and \n\n for blank line.
+
+Activity Three:
+I just cut some data from one System.out.println command intop another and make it indented.
+
+
+Activity Four:
+There are 6 output lines shoes include blank lines.
+
+Activity Five:
+There are 11 errors in the program which includes:
+1. error in class bracket is missing
+2. error in main function because void is miossing
+3. error in main [] are missing
+4. error in string "" is missing around Hello world
+5. error in command because S of system should be capital
+6. error in command because of Capital P in println
+7. error in command because of wrong wording like Pritnln in println
+8. error in command because ? is out of ""
+9. error due to missing of ; in System.out.println("")
+10.error due to missing of "" in System.out.println();
+11.error due to missing of .out in System.println("I wrote it myself");
+12.error due to missing of ) in System.out.println("I wrote it myself.";
+13.error due to { instead of }
+
+Activity Six:
+1)Class should be declared in your file
+2)When void is missing then invalid method declaration error occurs
+3)unclosed string literal or " missing error occured
+4)error ')' expected
+5)error cannot find symbol
+6)error  reached end of file while parsing occured
+
+Activity Seven:
+I use \ to print special characters such as " and \n for next line and \n\n for a blank line.
+
+Activity Eight:
+I have write the program using \ and / .
+
+Activity Nine:
+I converted the program into compound assignments using /=,*=,-=,+=,%=.
